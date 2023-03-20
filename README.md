@@ -56,6 +56,8 @@ I am a Cloud Systems Developer and Technical Operations Specialist.
   
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Projects</h2>
 
+<a href="https://github.com/AlexBenavente/gitops-flux-dive">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=AlexBenavente&repo=gitops-flux-dive&theme=vue" />
 <a href="https://github.com/AlexBenavente/health-checks">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=AlexBenavente&repo=health-checks&theme=vue" /> 
   </a>
