@@ -56,6 +56,8 @@ I am a Cloud Systems Developer and Technical Operations Specialist.
 
 <a href="https://github.com/AlexBenavente/gitops-flux-dive">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=AlexBenavente&repo=gitops-flux-dive&theme=vue" />
+<a href="https://github.com/AlexBenavente/aws-terraform-ansible-elk">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=AlexBenavente&repo=aws-terraform-ansible-elk&theme=vue" />  
 <a href="https://github.com/AlexBenavente/health-checks">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=AlexBenavente&repo=health-checks&theme=vue" /> 
   </a>
