@@ -55,9 +55,9 @@ I am a Cloud Systems Developer and Technical Operations Specialist.
 <h1><img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJiYzJhNjM4ZDVhZGQ3MzA4MzZjODQ5YTgwOGNkMDYwYTk2ZTBkZSZjdD1z/UVG0BN8TOMKkPOJS6e/giphy.gif" width = 32px> Projects</h1>
 
 <a href="https://github.com/AlexBenavente/gitops-flux-dive">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=AlexBenavente&repo=gitops-flux-dive&theme=vue" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=AlexBenavente&repo=gitops-flux-dive&theme=react" />
 <a href="https://github.com/AlexBenavente/aws-terraform-ansible-elk">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=AlexBenavente&repo=aws-terraform-ansible-elk&theme=vue" />  
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=AlexBenavente&repo=aws-terraform-ansible-elk&theme=react" />  
 <a href="https://github.com/AlexBenavente/health-checks">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=AlexBenavente&repo=health-checks&theme=vue" /> 
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=AlexBenavente&repo=health-checks&theme=react" /> 
   </a>
