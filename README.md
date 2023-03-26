@@ -52,7 +52,7 @@ I am a Cloud Systems Developer and Technical Operations Specialist.
   
 ---
   
-<h1><img src = "https://giphy.com/gifs/coding-developer-definity-first-UVG0BN8TOMKkPOJS6e" width = 32px> Projects</h1>
+<h1><img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJiYzJhNjM4ZDVhZGQ3MzA4MzZjODQ5YTgwOGNkMDYwYTk2ZTBkZSZjdD1z/UVG0BN8TOMKkPOJS6e/giphy.gif" width = 32px> Projects</h1>
 
 <a href="https://github.com/AlexBenavente/gitops-flux-dive">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=AlexBenavente&repo=gitops-flux-dive&theme=vue" />
