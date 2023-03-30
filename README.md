@@ -32,8 +32,13 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2>🧑‍💻 About Me</h2>
-I am a Cloud Systems Developer and Technical Operations Specialist.
- 
+I am a Cloud Systems Developer<br />
+and Technical Operations Specialist.
+            
+<p align="right">
+<img src="https://github.com/AlexBenavente/Images/blob/main/debug.jpg" width="389" height="169"/>
+
+                                                                        
 <h2>☁️ Cloud Platforms</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="50" height="50" />
