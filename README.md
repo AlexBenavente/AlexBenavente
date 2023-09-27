@@ -61,6 +61,8 @@ and Technical Operations Specialist.
 
 <a href="https://github.com/AlexBenavente/gitops-flux-dive">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=AlexBenavente&repo=gitops-flux-dive&theme=buefy" />
+<a href="https://github.com/AlexBenavente/jenkins-ansible-k8s-pipeline">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=AlexBenavente&repo=jenkins-ansible-k8s-pipeline&theme=buefy" />  
 <a href="https://github.com/AlexBenavente/aws-terraform-ansible-elk">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=AlexBenavente&repo=aws-terraform-ansible-elk&theme=buefy" />  
 <a href="https://github.com/AlexBenavente/health-checks">
